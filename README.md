@@ -1,0 +1,1 @@
+This project is written in C/C++, used to recognize surface characters of IC chips based on OCR. <br/><br/>The path of binarized surface image file should be assigned in readData() of main.cpp. <br/><br/>For more details please visit Tao Lin's <a href='http://ta0lin.info/?page_id=197'>homepage</a>.
